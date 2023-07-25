@@ -41,5 +41,5 @@ services:
       - redis_data:/data
       
 volumes:
-  mysql_data: /var/lib/mysql
-  redis_data: /var/lib/redis
+  mysql_data:
+  redis_data:
